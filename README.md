@@ -23,8 +23,7 @@ ML workshop Day2, Felicity 2021
 Familiarity with GANs, understanding of various GAN architectures, training GANs, knowledge on various applications of GANs like DeepFakes, doodle to realistic images, FaceApp, etc.
 
 
-# Slides
-https://iiitaphyd-my.sharepoint.com/:p:/g/personal/avani_gupta_research_iiit_ac_in/EezyPiE3pWpIvv33337dn34BTgVaGGaNJ9igkwAzmvnyRQ?e=ywr6aN
+**[Slides](https://iiitaphyd-my.sharepoint.com/:p:/g/personal/avani_gupta_research_iiit_ac_in/EezyPiE3pWpIvv33337dn34BTgVaGGaNJ9igkwAzmvnyRQ?e=ywr6aN)**
 
 # Code
 * [Basic GAN](https://colab.research.google.com/drive/1MrH2yXzioI8QQ4wkWtqzuCHx8mIVgEtZ?usp=sharing)
