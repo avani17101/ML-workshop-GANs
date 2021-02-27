@@ -36,3 +36,4 @@ Familiarity with GANs, understanding of various GAN architectures, training GANs
 # References
 * Coursera GAN Specialization: much of codes and slides are based on it.
 * My assignments done as part of specialization: [code](https://github.com/avani17101/Coursera-GANs-Specialization)
+* [Mode collapse](https://aiden.nibali.org/blog/2017-01-18-mode-collapse-gans/)
