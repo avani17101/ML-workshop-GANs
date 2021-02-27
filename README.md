@@ -29,8 +29,8 @@ Familiarity with GANs, understanding of various GAN architectures, training GANs
 * [Basic GAN](https://colab.research.google.com/drive/1MrH2yXzioI8QQ4wkWtqzuCHx8mIVgEtZ?usp=sharing)
 * [W-GAN](https://colab.research.google.com/drive/1EDl5qfvUQBWS37nnnMYULCuBw0aajZ-i?usp=sharing)
 * [DC-GAN](https://colab.research.google.com/drive/1jFVGUaU7hijtGroOMkxKjJdJD5wmDeb9?usp=sharing)
-* [Conditional GAN](https://colab.research.google.com/drive/1mJH89nRJn8VcTWuiWSriJMUhO0ILkMZi?usp=sharing)
-* [Controllable GAN](https://colab.research.google.com/drive/1PJhBaWWcDBsokfmNP2l13Ha4_cIcS0qV?usp=sharing)
+* [Conditional GAN](https://colab.research.google.com/drive/1PJhBaWWcDBsokfmNP2l13Ha4_cIcS0qV?usp=sharing)
+* [Controllable GAN](https://colab.research.google.com/drive/1mJH89nRJn8VcTWuiWSriJMUhO0ILkMZi?usp=sharing)
 
 
 # References
