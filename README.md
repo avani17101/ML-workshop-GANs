@@ -1,9 +1,5 @@
-# ML-workshop-GANs
-ML workshop Day2, Felicity 2021
-  
-  
-* Timing: 12-2:30 PM
- 
+# GANs
+
 
 # Outline
 
